@@ -1,4 +1,5 @@
 # Chirpy
+tansuo
 
 Language: English | [简体中文](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/README.zh-CN.md)
 
@@ -14,15 +15,24 @@ A minimal, sidebar, responsive web design Jekyll theme that focuses on text pres
 
 ## Table of Contents
 
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [Support](#support)
-- [License](#license)
+- [Chirpy](#chirpy)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+    - [Installing the Theme Gem](#installing-the-theme-gem)
+    - [Fork on GitHub](#fork-on-github)
+  - [Usage](#usage)
+    - [Configuration](#configuration)
+    - [Running Local Server](#running-local-server)
+    - [Deployment](#deployment)
+      - [Deploy on GitHub Pages](#deploy-on-github-pages)
+      - [Deploy on Other Platforms](#deploy-on-other-platforms)
+  - [Documentation](#documentation)
+  - [Contributing](#contributing)
+  - [Credits](#credits)
+  - [Support](#support)
+  - [License](#license)
 
 ## Features
 
