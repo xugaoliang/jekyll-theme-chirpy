@@ -8,6 +8,7 @@ group :test do
   gem "html-proofer", "~> 3.18"
 end
 
+# gem 'jekyll'
 gem 'webrick'
 gem 'jemoji'
 

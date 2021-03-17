@@ -1,0 +1,16 @@
+{
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "python.sortImports.args": [
+        "-m",
+        "3",
+        "--tc",
+        "-w",
+        "88",
+    ],
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    }
+}
